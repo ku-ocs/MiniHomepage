@@ -17,3 +17,9 @@
 
 ## 검색 만들기
 - search.md 추가
+- 
+## 사이드바 만들기
+- sidebar.md 추가
+
+## 푸터 만들기
+- footer.md 추가
